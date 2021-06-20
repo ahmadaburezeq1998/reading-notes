@@ -11,9 +11,9 @@ Hey there ! it's me Again I'm 23 years old i  graduated from al-zaytoonah univer
 | [reade3](https://ahmadaburezeq1998.github.io/reading-notes/read3) | third project |
 | [reade4](https://ahmadaburezeq1998.github.io/reading-notes/read4) | fourth project |
 | [reade5](https://ahmadaburezeq1998.github.io/reading-notes/read5) | fifth project |
-| [reade5](https://ahmadaburezeq1998.github.io/reading-notes/read6) | 6th project |
-| [reade5](https://ahmadaburezeq1998.github.io/reading-notes/read7) | 7th project |
-| [reade5](https://ahmadaburezeq1998.github.io/reading-notes/read8) | 8th project |
+| [reade6](https://ahmadaburezeq1998.github.io/reading-notes/read6) | 6th project |
+| [reade7](https://ahmadaburezeq1998.github.io/reading-notes/read7) | 7th project |
+| [reade8](https://ahmadaburezeq1998.github.io/reading-notes/read8) | 8th project |
 a note to show that i can use git 
 =======
 
