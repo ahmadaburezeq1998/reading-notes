@@ -21,6 +21,9 @@ a note to show that i can use git
 
 ## Code 201 Reading Notes
 > here is my work for 101 and 102 courses
+
+
+
 | Links | Description |
 | ----------- | ----------- |
 | [read1](https://ahmadaburezeq1998.github.io/reading-notes/read1) | first reading |
@@ -38,4 +41,7 @@ a note to show that i can use git
 | [reade5](https://ahmadaburezeq1998.github.io/reading-notes/read5) | 13th reading |
 | [reade6](https://ahmadaburezeq1998.github.io/reading-notes/read6) | 14th reading |
 | [reade7](https://ahmadaburezeq1998.github.io/reading-notes/read7) | 15th reading |
+
+
+
 #### the read links will be edited whenever we create a new one 
