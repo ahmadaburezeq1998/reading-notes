@@ -20,7 +20,7 @@ a note to show that i can use git
 
 
 ## Code 201 Reading Notes
-> here is my work for 101 and 102 courses
+> here is my work for 201 course
 
 
 
