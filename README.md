@@ -45,3 +45,26 @@ Hey there ! it's me Again I'm 23 years old i  graduated from al-zaytoonah univer
 
 
 #### the read links will be edited whenever we create a new one 
+
+## Code 301 Reading Notes
+> here is my work for 301 course
+
+
+
+| Links | Description |
+| ----------- | ----------- |
+| [read1](https://ahmadaburezeq1998.github.io/reading-notes/301read1) | first reading |
+| [reade2](https://ahmadaburezeq1998.github.io/reading-notes/301read2) | second reading |
+| [reade3](https://ahmadaburezeq1998.github.io/reading-notes/301read3) | third reading |
+| [reade4](https://ahmadaburezeq1998.github.io/reading-notes/301read4) | fourth reading |
+| [reade5](https://ahmadaburezeq1998.github.io/reading-notes/301read5) | fifth reading |
+| [reade6](https://ahmadaburezeq1998.github.io/reading-notes/301read6) | 6th reading |
+| [reade7](https://ahmadaburezeq1998.github.io/reading-notes/301read7) | 7th reading |
+| [reade8](https://ahmadaburezeq1998.github.io/reading-notes/301read8) | 8th reading |
+| [read9](https://ahmadaburezeq1998.github.io/reading-notes/301read9) | 9th reading |
+| [reade10](https://ahmadaburezeq1998.github.io/reading-notes/301read10) | 10th reading |
+| [reade11](https://ahmadaburezeq1998.github.io/reading-notes/301read11) | 11th reading |
+| [reade12](https://ahmadaburezeq1998.github.io/reading-notes/301read12) | 12th reading |
+| [reade13](https://ahmadaburezeq1998.github.io/reading-notes/301read13) | 13th reading |
+| [reade14](https://ahmadaburezeq1998.github.io/reading-notes/301read14) | 14th reading |
+| [reade15](https://ahmadaburezeq1998.github.io/reading-notes/301read15) | 15th reading |
