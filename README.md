@@ -1,7 +1,8 @@
 
 # Ahmad Aburezeq
 Hey there ! it's me Again I'm 23 years old i  graduated from al-zaytoonah university and here is what i learned in this course and right now im in the 201 course
-## code 101 and 102 reading notes
+## code 101 and 102 reading notes 
+## (Intro to Software Development)
 > here is my work for 101 and 102 courses
 
 | Links | Description |
@@ -20,6 +21,7 @@ Hey there ! it's me Again I'm 23 years old i  graduated from al-zaytoonah univer
 
 
 ## Code 201 Reading Notes
+## (Foundations of Software Development)
 > here is my work for 201 course
 
 
@@ -47,6 +49,7 @@ Hey there ! it's me Again I'm 23 years old i  graduated from al-zaytoonah univer
 #### the read links will be edited whenever we create a new one 
 
 ## Code 301 Reading Notes
+## ( Intermediate Software Development)
 > here is my work for 301 course
 
 
